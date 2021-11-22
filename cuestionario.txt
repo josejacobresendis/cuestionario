@@ -28,4 +28,4 @@ Y no tienes que abrir programas no confiables
 
 8.¿Cómo funciona la búsqueda de google?
 Las paginas y la información se guarda automaticamente en un "listado", este a la hora de buscar es consultado y la información
-de esta lista es mandada al dispositivo ya ordenado
+de esta lista es mandada al dispositivo ya ordenado.
