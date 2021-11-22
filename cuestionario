@@ -1,0 +1,31 @@
+Resendiz y Ramírez Jiménez
+En tus palabras ¿Que es Internet?
+El internet es la conexión entre todas las redes y computadoras del mundo.
+
+2.Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+Medios físicos: son formas de transmitir información de una forma física sin utililzar
+ondas transportadas libremente, ejemplos son cables ethernet o conexiones alambricas a los servidores.
+
+3.¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+DNS: encargado de traducir los números de una dirección IP en un nombre de dominio.
+Es decir que convierten el dominio escrito en el navegador y dirigen el acceso hacia el servidor al que apunta el dominio.
+
+4.Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+Se utilizan servidores, estos mandan y regresan información a la hora de publicar una canción,
+reproducirla y de regreso, tu telefono envia información y los servidores regresan información.
+
+5.Describe los protocolos que existen en internet, en específico HTTP y HTML
+HTTP, de sus siglas en inglés: "Hypertext Transfer Protocol", 
+nos permite realizar una petición de datos y recursos, como pueden ser documentos HTML.
+
+6.En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+La encriptación es un metodo de codificar, esta cambia el texto normal a una forma alternativa codificada y las llaves públicas
+es un metodo de encriptado asimetrico que usa "llaves" diferentes para el encriptado y desencriptado
+
+7.En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+No tienes que picar ventanas emergentes, ni descargar programas de sitios no confiables, también es vital usar un antivirus
+Y no tienes que abrir programas no confiables
+
+8.¿Cómo funciona la búsqueda de google?
+Las paginas y la información se guarda automaticamente en un "listado", este a la hora de buscar es consultado y la información
+de esta lista es mandada al dispositivo ya ordenado
